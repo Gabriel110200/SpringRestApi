@@ -37,10 +37,10 @@ A seguir mostro os prints das requisições, você pode clicar para ver a imagem
 ![image](https://github.com/Gabriel110200/SpringRestApi/assets/72171380/42978fc1-104d-4c1a-91a9-d3a28e0583af)
 
 
-##StackTrace: 
+##StackTrace Quando  spring.jpa.show-sql=true em application.properties: 
 ![image](https://github.com/Gabriel110200/SpringRestApi/assets/72171380/a5acd477-0ce6-4c89-b02d-da7079e88e58)
 
-Quando  spring.jpa.show-sql=true
+
 
 
 
