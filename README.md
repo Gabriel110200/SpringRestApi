@@ -7,6 +7,13 @@ A razão pelo qual não utilizo o postman para requisições é que por causa de
 
 A seguir mostro os prints das requisições, você pode clicar para ver a imagem completa
 
+
+## Swagger: 
+
+![image](https://github.com/Gabriel110200/SpringRestApi/assets/72171380/4ae40bcc-b00b-4f8b-87ad-04a36eca41f6)
+
+![image](https://github.com/Gabriel110200/SpringRestApi/assets/72171380/ab1eb4ea-144a-45c8-a0ef-8670abf914c3)
+
 ## Prints, registro de usuário: 
 
 ![image](https://github.com/Gabriel110200/SpringRestApi/assets/72171380/3a8f2bed-7c86-4c80-ac2a-f122950460bc)
